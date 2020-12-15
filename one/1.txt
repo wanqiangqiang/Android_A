@@ -1,0 +1,19 @@
+<title><!--标题 网站的名字-->
+<body><!--身体标签 网页身体 网页特效-->
+<table><!--表格标签-->
+<tr>定义行
+<td>单元格
+<span style= ”float ：left；“>段落标签向左浮动
+<font>文本颜色
+<select>下拉列表
+<br>换行
+herf地址
+<p>文字链接<a>链接
+multiple 规定可选择多个选择
+动态效果，先完成静态，在做动态
+js（javSscript）es语法 es-es10 ajax dom异步 闭包....
+jquery效果快
+库 框架 js封装 手动
+<script>
+双击  dblclick
+拉勾
